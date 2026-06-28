@@ -175,18 +175,17 @@ Baseado em **WCAG 2.2 (AA)**, **ABNT NBR 17225:2025** (web), **ABNT NBR 17060:20
 
 ---
 
-## O que **remover/ajustar** (comparado ao pocket antigo)
-- **Checklist apenas WCAG 2.1** → **[ATUALIZADO]**: elevar para **WCAG 2.2 AA**. [[1]](#ref-1)  
-- **Sem menção a NBR** → **[NOVO]**: incluir **NBR 17225 (web)** e **NBR 17060 (mobile)**. [[2]](#ref-2) [[3]](#ref-3)  
-- **Sem Declaração de Acessibilidade** → **[NOVO]**: publicar e versionar a declaração. [[2]](#ref-2)  
-- **Ferramentas só internacionais** → **[ATUALIZADO]**: incluir **ASES/eScanner** e **VLibras**, com **passo a passo** e limitações. [[5]](#ref-5)
+## O que **remover/ajustar** (comparado ao guia do Grupo 05 de 2025.2)
+- **Foco em desenvolvimento de software (Extensão Chrome)** → **[ATUALIZADO]**: Redirecionar o escopo do projeto para a aplicação prática das diretrizes em um estudo de caso real de relevância pública (**Portal do DETRAN-DF**), consolidando o guia de documentação como ferramenta de auditoria.
+- **Guias puramente teóricos/procedimentais** → **[NOVO]**: Introduzir a metodologia de **Persona de Referência** para guiar a simulação cognitiva das tarefas e a **Matriz de Conformidade do DETRAN-DF** para detalhar as não-conformidades encontradas no caso real com propostas de solução técnicas.
+- **Estruturação complexa de caminhos** → **[ATUALIZADO]**: Organizar e simplificar a introdução e explicações das diretrizes WCAG através dos princípios **P.O.U.R.** e do **Guia de Site Acessível** simplificado.
 
 ---
 
-### Comparação com o Grupo 09
-- **Mantido**: estrutura de governança, responsabilidades gerais, preocupação com ferramentas e cronograma.  
-- **Atualizado**: metas **WCAG 2.2 AA**, foco em **declaração pública**, **auditoria contínua**, **incidentes/débitos**, **terceiros** e **release notes**.  
-- **Adicionado**: **NBR 17225/17060**, **RACI com entregáveis por etapa**, **KPIs implícitos via DoD/PR**, **feedback com SLA** e **conformidade em contratos**.
+### Comparação com o Grupo 05 (2025.2)
+- **Mantido**: A estrutura de checklists por papéis (Design, Dev, Conteúdo, Gestão, QA), o alinhamento às normas **WCAG 2.2 AA** e às **NBR 17225/17060**, e as diretrizes de governança (DoD/PR, RACI, auditoria periódica).
+- **Atualizado**: Substituição da abordagem de software (Extensão Chrome de auditoria) por uma abordagem analítico-prática voltada para a avaliação heurística de portais de serviços públicos reais.
+- **Adicionado**: **Relatório de Inspeção Qualitativa**, **Persona de Referência (Carlos Alberto Ferreira)** para simulação de uso por cidadãos comuns de baixa afinidade digital, **Matriz de Conformidade com 99 critérios** aplicados a um caso real, e seções de **alinhamento teórico facilitado (P.O.U.R.)** e **Guia de Site Acessível** simplificado.
 
 ---
 

@@ -188,7 +188,7 @@ Baseado em **WCAG 2.2 (AA)**, **ABNT NBR 17225:2025** e boas práticas Gov.br.
 <a id="ref-14"></a>[14] WCAG 2.2 — SC 2.5.7 (Movimentos de arrastar – alternativa por clique/teclado)  
 <a id="ref-15"></a>[15] WAI-ARIA Authoring Practices — semântica e padrões de interação acessível  
 <a id="ref-16"></a>[16] Mudanças da WCAG 2.2 — remoção do SC 4.1.1 (Parsing)
-<a id="ref-17"></a>[17] Itens práticos da página “Design” do Grupo 09 (estrutura e exemplos de tipografia/contraste/alvos).  
+<a id="ref-17"></a>[17] Itens práticos da página “Design” do Grupo 05 (2025.2) (estrutura e exemplos de tipografia/contraste/alvos).  
 <a id="ref-18"></a>[18] WCAG 2.2 — SC 1.4.12 (Text Spacing).  
 <a id="ref-19"></a>[19] WCAG 2.2 — SC 1.3.3 (Sensory Characteristics).  
 <a id="ref-20"></a>[20] WCAG 2.2 — SC 1.4.13 (Content on Hover or Focus).  

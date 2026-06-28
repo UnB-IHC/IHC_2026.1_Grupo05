@@ -70,4 +70,5 @@ nav:
   - Metodologias & Apoio:
       - Ferramentas de Apoio: tools/ferramentas.md
       - Heurísticas de Nielsen: metodo/heuristicas.md
+      - Técnicas de IHC: metodo/tecnicasIHC.md
       - Gestão do Projeto: gestaoProjeto/gestaoProjeto.md
