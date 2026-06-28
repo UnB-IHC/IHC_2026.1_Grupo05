@@ -19,15 +19,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: slate
-      primary: deep orange
-      accent: amber
+      primary: deep blue
+      accent: light blue
       toggle:
         icon: material/weather-night
         name: Modo escuro
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: amber
+      scheme: default
+      primary: deep blue
+      accent: light blue
       toggle:
         icon: material/weather-sunny
         name: Modo claro
@@ -54,7 +54,9 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Início: index.md
+  - Início: 
+    - Introdução: index.md
+    - Para que serve o guia: inicio/paraQueServe.md
   - Guia de Site Acessível: guia/site_acessivel.md
   - WCAG: wcag.md
   - Checklist: 

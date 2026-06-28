@@ -24,13 +24,64 @@ Nosso objetivo é expandir o trabalho anterior e oferecer **checklists práticos
 
 Abaixo estão listados os integrantes do grupo que participaram do desenvolvimento desta versão:
 
-*   **Jorge Henrique Lessa** — 231011570
-*   **Gabriela Dourado** — 231026821
-*   **Luiz Henrique Guimarães** — 222022144
-*   **Matheus Ribeiro** — 231011749
-*   **Pedro Henrique Gomes** — 232030041
-*   **Kelyton de Lucas Moraes** — 241012033
-*   **Natan França** — 241011537
+<div class="team-grid">
+	<figure class="team-card">
+		<img src="images/Gabriela.jpeg" alt="Foto de Gabriela Dourado" loading="lazy">
+		<figcaption>
+			<strong>Gabriela Dourado</strong><br>
+			231026821
+		</figcaption>
+	</figure>
+
+	<figure class="team-card">
+		<img src="images/Jorge.jpeg" alt="Foto de Jorge Henrique Lessa" loading="lazy">
+		<figcaption>
+			<strong>Jorge Henrique Lessa</strong><br>
+			231011570
+		</figcaption>
+	</figure>
+
+	<figure class="team-card">
+		<img src="images/Kelyton.jpeg" alt="Foto de Kelyton de Lucas Moraes" loading="lazy">
+		<figcaption>
+			<strong>Kelyton de Lucas Moraes</strong><br>
+			241012033
+		</figcaption>
+	</figure>
+
+	<figure class="team-card">
+		<img src="images/Luiz.jpeg" alt="Foto de Luiz Henrique Guimarães" loading="lazy">
+		<figcaption>
+			<strong>Luiz Henrique Guimarães</strong><br>
+			222022144
+		</figcaption>
+	</figure>
+
+	<figure class="team-card">
+		<img src="images/Matheus.jpeg" alt="Foto de Matheus Ribeiro" loading="lazy">
+		<figcaption>
+			<strong>Matheus Ribeiro</strong><br>
+			231011749
+		</figcaption>
+	</figure>
+
+	<figure class="team-card">
+		<img src="images/Natan.jpeg" alt="Foto de Natan França" loading="lazy">
+		<figcaption>
+			<strong>Natan França</strong><br>
+			241011537
+		</figcaption>
+	</figure>
+
+	<figure class="team-card">
+		<img src="images/Pedro.jpeg" alt="Foto de Pedro Henrique Gomes" loading="lazy">
+		<figcaption>
+		<figcaption>
+			<strong>Pedro Henrique Gomes</strong><br>
+			232030041
+		</figcaption>
+	</figure>
+</div>
 
 ---
 

@@ -17,3 +17,46 @@
 .admonition.tip, .admonition.note {
   border-left-width: 6px;
 }
+/* Grade da equipe na home */
+.team-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 1rem;
+  margin: 1rem 0 0;
+}
+
+.team-card {
+  flex: 0 1 180px;
+  margin: 0;
+  padding: 0.25rem;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  text-align: center;
+}
+
+.team-card img,
+.team-placeholder {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.team-placeholder {
+  display: grid;
+  place-items: center;
+  background: linear-gradient(135deg, var(--md-accent-fg-color), var(--md-primary-fg-color));
+  color: var(--md-default-bg-color);
+  font-weight: 700;
+}
+
+.team-card figcaption {
+  margin-top: 0.8rem;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
