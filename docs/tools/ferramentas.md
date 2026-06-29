@@ -1,4 +1,4 @@
-# Ferramentas — V2.0
+# Ferramentas — V3.0
 
 Esta página reúne **ferramentas práticas** para apoiar o time (Design, Conteúdo, Dev, QA) na verificação de acessibilidade.
 

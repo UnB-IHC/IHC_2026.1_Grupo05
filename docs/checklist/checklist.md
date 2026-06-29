@@ -1,8 +1,8 @@
-# Conteúdo — Checklist V2.0 (Integrado)
+# Conteúdo — Checklist V3.0 (Integrado)
 
 Boas práticas para textos, imagens (simples e complexas), ícones, vídeos/podcasts, hyperlinks, documentos baixáveis e linguagem inclusiva.  
 Baseado em **WCAG 2.2 (AA)** , **ABNT NBR 17225:2025** e Guia Gov.br.  
-> Marcação: **[NOVO]** (incluído na V2.0) • **[ATUALIZADO]** (ajustado por mudança de norma/entendimento).
+> Marcação: **[NOVO]** (incluído na V3.0) • **[ATUALIZADO]** (ajustado por mudança de norma/entendimento).
 
 ---
 

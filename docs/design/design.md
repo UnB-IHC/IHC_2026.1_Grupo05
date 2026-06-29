@@ -1,8 +1,8 @@
-# Design — Checklist V2.0 (Integrado)
+# Design — Checklist V3.0 (Integrado)
 
 Este checklist cobre contraste, tipografia, foco, alvos de toque, movimento, reflow, feedback visual e drag & drop.  
 Baseado em **WCAG 2.2 (AA)** , **ABNT NBR 17225:2025** e boas práticas Gov.br.  
-> Marcação: **[NOVO]** (incluído na V2.0) • **[ATUALIZADO]** (ajustado por mudança de norma/entendimento).
+> Marcação: **[NOVO]** (incluído na V3.0) • **[ATUALIZADO]** (ajustado por mudança de norma/entendimento).
 
 ---
 

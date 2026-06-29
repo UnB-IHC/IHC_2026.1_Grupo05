@@ -1,8 +1,8 @@
-# Desenvolvimento Web — Checklist V2.0 (Integrado)
+# Desenvolvimento Web — Checklist V3.0 (Integrado)
 
 Práticas de implementação para HTML, ARIA, formulários, navegação por teclado, foco, autenticação e padrões de interação.  
 Baseado em **WCAG 2.2 (AA)** , **ABNT NBR 17225:2025** e WAI-ARIA Authoring Practices.  
-> Marcação: **[NOVO]** (incluído na V2.0) • **[ATUALIZADO]** (ajustado por mudança de norma/entendimento).
+> Marcação: **[NOVO]** (incluído na V3.0) • **[ATUALIZADO]** (ajustado por mudança de norma/entendimento).
 
 ---
 

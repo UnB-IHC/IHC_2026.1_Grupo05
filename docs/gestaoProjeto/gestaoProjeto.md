@@ -1,8 +1,8 @@
-# Gestão do Projeto — Checklist V2.0
+# Gestão do Projeto — Checklist V3.0
 
 Governança de acessibilidade: políticas, papéis, fluxo de trabalho, critérios de aceite, auditoria contínua, publicação e comunicação.  
 Baseado em **WCAG 2.2 (AA)**, **ABNT NBR 17225:2025** (web), **ABNT NBR 17060:2022** (mobile) e diretrizes Gov.br.  
-> Marcação: **[NOVO]** (incluído na V2.0) • **[ATUALIZADO]** (ajustado por mudança de norma/entendimento).
+> Marcação: **[NOVO]** (incluído na V3.0) • **[ATUALIZADO]** (ajustado por mudança de norma/entendimento).
 
 ---
 
@@ -48,7 +48,7 @@ Baseado em **WCAG 2.2 (AA)**, **ABNT NBR 17225:2025** (web), **ABNT NBR 17060:20
 - [ ] **[NOVO]** **Riscos** (ex.: dependência de componente de terceiro) são mapeados com plano de mitigação. [[4]](#ref-4)
 
 !!! success "Certo"
-    Épico “Acessibilidade V2.0” com histórias por fluxo e critérios de aceite claros.
+    Épico “Acessibilidade V3.0” com histórias por fluxo e critérios de aceite claros.
 
 !!! failure "Errado"
     Correções ad-hoc e sem previsão de entrega.

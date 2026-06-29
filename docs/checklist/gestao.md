@@ -1,4 +1,4 @@
-# Gestão e Governança — Checklist V2.0
+# Gestão e Governança — Checklist V3.0
 
 Este checklist apoia lideranças, coordenadores e gestores de produto a incluir acessibilidade como critério de qualidade desde o planejamento estratégico até a entrega contínua.
 
