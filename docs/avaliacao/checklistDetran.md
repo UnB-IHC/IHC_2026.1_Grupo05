@@ -1,4 +1,4 @@
-# Matriz de Conformidade (Checklist): Portal DETRAN-DF
+# Checklist Aplicada Portal DETRAN-DF
 
 **URL avaliada:** https://portal.detran.df.gov.br/#/home  
 **Data da avaliação:** 15–16 de junho de 2026  

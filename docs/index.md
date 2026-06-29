@@ -1,7 +1,7 @@
-# VerificAAA — Guia de Acessibilidade (V3)
+# Guia de Acessibilidade (V3)
 
 > **Grupo 05 — IHC/UnB (2026.1)**  
-> Esta é a **Versão 3** do nosso *Guia de Acessibilidade*, evoluída a partir do projeto desenvolvido pelo Grupo 05 no semestre 2025.2. O guia está alinhado às diretrizes **WCAG 2.2 (AA)**, **ABNT NBR 17225:2025 (Web)** e **ABNT NBR 17060:2022 (Mobile)**, além de incluir a avaliação prática baseada em IHC e acessibilidade do portal do **DETRAN-DF**.
+> Esta é a **Versão 3** do nosso _Guia de Acessibilidade_, evoluída a partir do projeto desenvolvido pelo Grupo 05 no semestre 2025.2. O guia está alinhado às diretrizes **WCAG 2.2 (AA)**, **ABNT NBR 17225:2025 (Web)** e **ABNT NBR 17060:2022 (Mobile)**, além de incluir a avaliação prática baseada em IHC e acessibilidade do portal do **DETRAN-DF**.
 
 ---
 
@@ -13,10 +13,11 @@ Nosso objetivo é expandir o trabalho anterior e oferecer **checklists práticos
 ---
 
 ## O que há de novo na V3
-*   **Avaliação do Portal DETRAN-DF:** Incorporação de uma auditoria técnica de usabilidade e acessibilidade de caso real.
-*   **Checklist de Caso Real:** Um checklist de critérios normativos (A, AA, AAA) detalhado com achados e sugestões de correções específicas.
-*   **Guia de Site Acessível:** Uma seção de fácil consulta para entender o que um site precisa para ser acessível de forma simplificada.
-*   **Alinhamento Teórico WCAG:** Explicação facilitada dos princípios P.O.U.R.
+
+- **Avaliação do Portal DETRAN-DF:** Incorporação de uma auditoria técnica de usabilidade e acessibilidade de caso real.
+- **Checklist de Caso Real:** Um checklist de critérios normativos (A, AA, AAA) detalhado com achados e sugestões de correções específicas.
+- **Guia de Site Acessível:** Uma seção de fácil consulta para entender o que um site precisa para ser acessível de forma simplificada.
+- **Alinhamento Teórico WCAG:** Explicação facilitada dos princípios P.O.U.R.
 
 ---
 
@@ -33,54 +34,55 @@ Abaixo estão listados os integrantes do grupo que participaram do desenvolvimen
 		</figcaption>
 	</figure>
 
-	<figure class="team-card">
-		<img src="images/Jorge.jpeg" alt="Foto de Jorge Henrique Lessa" loading="lazy">
-		<figcaption>
-			<strong>Jorge Henrique Lessa</strong><br>
-			231011570
-		</figcaption>
-	</figure>
+    <figure class="team-card">
+    	<img src="images/Jorge.jpeg" alt="Foto de Jorge Henrique Lessa" loading="lazy" style="object-position: 35%;">
+    	<figcaption>
+    		<strong>Jorge Henrique Lessa</strong><br>
+    		231011570
+    	</figcaption>
+    </figure>
 
-	<figure class="team-card">
-		<img src="images/Kelyton.jpeg" alt="Foto de Kelyton de Lucas Moraes" loading="lazy">
-		<figcaption>
-			<strong>Kelyton de Lucas Moraes</strong><br>
-			241012033
-		</figcaption>
-	</figure>
+    <figure class="team-card">
+    	<img src="images/Kelyton.jpeg" alt="Foto de Kelyton de Lucas Moraes" loading="lazy">
+    	<figcaption>
+    		<strong>Kelyton de Lucas Moraes</strong><br>
+    		241012033
+    	</figcaption>
+    </figure>
 
-	<figure class="team-card">
-		<img src="images/Luiz.jpeg" alt="Foto de Luiz Henrique Guimarães" loading="lazy">
-		<figcaption>
-			<strong>Luiz Henrique Guimarães</strong><br>
-			222022144
-		</figcaption>
-	</figure>
+    <figure class="team-card">
+    	<img src="images/Luiz.jpeg" alt="Foto de Luiz Henrique Guimarães" loading="lazy">
+    	<figcaption>
+    		<strong>Luiz Henrique Guimarães</strong><br>
+    		222022144
+    	</figcaption>
+    </figure>
 
-	<figure class="team-card">
-		<img src="images/Matheus.jpeg" alt="Foto de Matheus Ribeiro" loading="lazy">
-		<figcaption>
-			<strong>Matheus Ribeiro</strong><br>
-			231011749
-		</figcaption>
-	</figure>
+    <figure class="team-card">
+    	<img src="images/Matheus.jpeg" alt="Foto de Matheus Ribeiro" loading="lazy">
+    	<figcaption>
+    		<strong>Matheus Ribeiro</strong><br>
+    		231011749
+    	</figcaption>
+    </figure>
 
-	<figure class="team-card">
-		<img src="images/Natan.jpeg" alt="Foto de Natan França" loading="lazy">
-		<figcaption>
-			<strong>Natan França</strong><br>
-			241011537
-		</figcaption>
-	</figure>
+    <figure class="team-card">
+    	<img src="images/Natan.jpeg" alt="Foto de Natan França" loading="lazy">
+    	<figcaption>
+    		<strong>Natan França</strong><br>
+    		241011537
+    	</figcaption>
+    </figure>
 
-	<figure class="team-card">
-		<img src="images/Pedro.jpeg" alt="Foto de Pedro Henrique Gomes" loading="lazy">
-		<figcaption>
-		<figcaption>
-			<strong>Pedro Henrique Gomes</strong><br>
-			232030041
-		</figcaption>
-	</figure>
+    <figure class="team-card">
+    	<img src="images/Pedro.jpeg" alt="Foto de Pedro Henrique Gomes" loading="lazy">
+    	<figcaption>
+    	<figcaption>
+    		<strong>Pedro Henrique Gomes</strong><br>
+    		232030041
+    	</figcaption>
+    </figure>
+
 </div>
 
 ---
@@ -88,10 +90,12 @@ Abaixo estão listados os integrantes do grupo que participaram do desenvolvimen
 ## Créditos e referências ao trabalho anterior
 
 Esta V3 baseia-se e expande o trabalho da V2 (semestre 2025.2), cujos autores originais foram:
-*   Ana Elisa, Marina Galdi, Davi Camilo, Euller Junior e Kauã Vale.
+
+- Ana Elisa, Marina Galdi, Davi Camilo, Euller Junior e Kauã Vale.
 
 ---
 
 ## Nota de conformidade
-*   **Objetivo principal:** WCAG 2.2 nível AA.
-*   **Adoção nacional:** NBR 17225 (Web) e NBR 17060 (Mobile).
+
+- **Objetivo principal:** WCAG 2.2 nível AA.
+- **Adoção nacional:** NBR 17225 (Web) e NBR 17060 (Mobile).

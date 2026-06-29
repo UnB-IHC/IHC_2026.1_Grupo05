@@ -68,7 +68,7 @@ nav:
   - Avaliação DETRAN-DF:
       - Relatório de Inspeção: avaliacao/introducao.md
       - Persona de Referência: avaliacao/persona.md
-  - Matriz de Conformidade (Checklist): avaliacao/checklistDetran.md
+  - Checklist Aplicada: avaliacao/checklistDetran.md
   - Metodologias & Apoio:
       - Ferramentas de Apoio: tools/ferramentas.md
       - Heurísticas de Nielsen: metodo/heuristicas.md
