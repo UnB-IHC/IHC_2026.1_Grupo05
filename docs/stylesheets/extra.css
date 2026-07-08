@@ -61,13 +61,38 @@
   line-height: 1.4;
 }
 
+.md-content__inner {
+  position: relative;
+}
+
+@media screen and (min-width: 769px) {
+  .md-content__inner {
+    padding-right: 9.5rem;
+  }
+}
+
+.checklist-progress-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0.8rem;
+  bottom: 0;
+  width: clamp(6.5rem, 18vw, 8rem);
+  pointer-events: none;
+}
+
+@media screen and (max-width: 768px) {
+  .checklist-progress-wrapper {
+    display: none;
+  }
+}
+
 .checklist-progress {
   position: sticky;
   top: calc(var(--md-header-height, 3.75rem) + 1rem);
   z-index: 2;
-  width: clamp(6.5rem, 18vw, 8rem);
+  width: 100%;
   aspect-ratio: 1;
-  margin: 1rem 0 1.5rem auto;
+  margin: 0;
   padding: 0.55rem;
   border-radius: 50%;
   background: conic-gradient(
@@ -77,6 +102,7 @@
   box-shadow:
     0 0.9rem 2rem color-mix(in srgb, var(--md-default-fg-color) 30%, transparent),
     0 0.2rem 0.6rem color-mix(in srgb, var(--md-default-fg-color) 20%, transparent);
+  pointer-events: auto;
 }
 
 .checklist-progress__header {
@@ -119,16 +145,3 @@
   line-height: 1.15;
 }
 
-@media screen and (max-width: 640px) {
-  .checklist-progress {
-    top: calc(var(--md-header-height, 3.25rem) + 0.75rem);
-  }
-
-  .checklist-progress__header {
-    padding: 0.55rem;
-  }
-
-  .checklist-progress {
-    width: 6.2rem;
-  }
-}

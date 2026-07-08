@@ -17,6 +17,14 @@
       return;
     }
 
+    // Wrap the progress element to support overlay layout
+    if (progressElement.parentElement && !progressElement.parentElement.classList.contains('checklist-progress-wrapper')) {
+      const wrapper = document.createElement('div');
+      wrapper.className = 'checklist-progress-wrapper';
+      progressElement.parentNode.insertBefore(wrapper, progressElement);
+      wrapper.appendChild(progressElement);
+    }
+
     const { checked, total } = countCheckboxes(content);
     const percentage = total === 0 ? 0 : Math.round((checked / total) * 100);
 
