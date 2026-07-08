@@ -4,6 +4,8 @@ Práticas de implementação para HTML, ARIA, formulários, navegação por tecl
 Baseado em **WCAG 2.2 (AA)** , **ABNT NBR 17225:2025** e WAI-ARIA Authoring Practices.  
 > Marcação: **[NOVO]** (incluído na V3.0) • **[ATUALIZADO]** (ajustado por mudança de norma/entendimento).
 
+<div class="checklist-progress" data-checklist-progress></div>
+
 ---
 
 ## 1) Semântica, Estrutura e Navegação

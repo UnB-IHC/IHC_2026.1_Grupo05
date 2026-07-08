@@ -4,6 +4,8 @@ Boas práticas para textos, imagens (simples e complexas), ícones, vídeos/podc
 Baseado em **WCAG 2.2 (AA)** , **ABNT NBR 17225:2025** e Guia Gov.br.  
 > Marcação: **[NOVO]** (incluído na V3.0) • **[ATUALIZADO]** (ajustado por mudança de norma/entendimento).
 
+<div class="checklist-progress" data-checklist-progress></div>
+
 ---
 
 ## 1) Estrutura Geral e Navegação

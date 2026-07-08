@@ -4,6 +4,8 @@ Este checklist apoia lideranças, coordenadores e gestores de produto a incluir 
 
 Baseado em **WCAG 2.2 (AA)** , **ABNT NBR 17225:2025**, **Lei Brasileira de Inclusão (LBI)** e boas práticas de governança em acessibilidade digital.
 
+<div class="checklist-progress" data-checklist-progress></div>
+
 ---
 
 ## 1) Planejamento Estratégico e Escopo

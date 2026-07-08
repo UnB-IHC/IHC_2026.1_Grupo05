@@ -4,6 +4,8 @@ Este checklist cobre contraste, tipografia, foco, alvos de toque, movimento, ref
 Baseado em **WCAG 2.2 (AA)** , **ABNT NBR 17225:2025** e boas práticas Gov.br.  
 > Marcação: **[NOVO]** (incluído na V3.0) • **[ATUALIZADO]** (ajustado por mudança de norma/entendimento).
 
+<div class="checklist-progress" data-checklist-progress></div>
+
 ---
 
 ## 1) Contraste de Texto e Elementos Não Textuais

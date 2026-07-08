@@ -53,6 +53,9 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/checklist-progress.js
+
 nav:
   - Início: 
     - Introdução: index.md
@@ -62,7 +65,7 @@ nav:
   - Checklist: 
     - Regras Gerais: checklist/checklist.md
     - Design: design/design.md
-    - Desenvolvimento Web: devWeb/non_text_content.md
+    - Desenvolvimento Web: devWeb/desenvolvimento.md
     - Produção de Conteúdo: geracaoConteudo/conteudo.md
     - Gestão e Governança: checklist/gestao.md
   - Avaliação DETRAN-DF:
